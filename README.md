@@ -1,6 +1,25 @@
 
 Bowling Challenge
 =================
+```
+As a player
+After I've bowled my bowling ball
+If I hit under 10 pins within my two bowls then count the score
+```
+```
+As a player
+After I've bowled my bowling ball
+If I knock all the pins down in my first attempt, the frame ends.
+```
+As a player
+After I've bowled my bowling ball
+If I knock all the pins down in my first attempt, the bonus is added on to the next two rolls.
+```
+As a player
+After I've bowled my bowling ball
+If I knock all the pins down in my second attempt as well as my first attempt, the bonus is added on to the next two rolls.
+```
+
 
 * Feel free to use google, your notes, books, etc. but work on your own
 * If you refer to the solution of another coach or student, please put a link to that in your README
