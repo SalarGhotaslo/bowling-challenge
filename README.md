@@ -3,21 +3,39 @@ Bowling Challenge
 =================
 ```
 As a player
-After I've bowled my bowling ball
-If I hit under 10 pins within my two bowls then count the score
+So that I can san how many pins I've knocked down
+I would like to input a score
 ```
 ```
 As a player
-After I've bowled my bowling ball
-If I knock all the pins down in my first attempt, the frame ends.
+So that I can see view my record
+I would like to see my total score
+```
 ```
 As a player
-After I've bowled my bowling ball
-If I knock all the pins down in my first attempt, the bonus is added on to the next two rolls.
+If I have hit under 10 pins within two bowls
+I would like count the score
+```
 ```
 As a player
-After I've bowled my bowling ball
-If I knock all the pins down in my second attempt as well as my first attempt, the bonus is added on to the next two rolls.
+If I knock over all the pins on my first bowl
+I would like to score this as a strike
+```
+```
+As a player
+If I knock over all the pins on my second bowl
+I would like to score this as a spare
+```
+```
+As a player
+If I score a strike
+I would like this to be shown in the bonus
+```
+```
+As a player
+If I score a spare
+I would like this to be shown in the bonus
+```
 ```
 
 
