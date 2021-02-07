@@ -2,7 +2,7 @@ require 'bowling'
 
 describe Bowling do
   let(:bowling) { Bowling.new }
-  let(:score) { 7 }
+  let(:score) { 4 }
   it 'totals the score' do
     bowling.player_score(3)
     expect(bowling.total_score).to eq 3
